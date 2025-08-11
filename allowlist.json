@@ -1,6 +1,10 @@
 [
   {
     "username": "testuser",
-    "permissions": ["test", "test2"]
+    "permissions": ["cmdprotect", "test2"]
+  },
+  {
+    "username": "admin",
+    "permissions": "*"
   }
 ]
