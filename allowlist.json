@@ -1,0 +1,11 @@
+[
+  {
+    "username": "MrColdiYT",
+    "rank": "admin"
+  },
+  {
+    "username": "testuser",
+    "permissions": ["test", "test2"],
+    "rank": "none"
+  }
+]
