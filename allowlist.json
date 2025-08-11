@@ -2,5 +2,9 @@
   {
     "username": "testuser",
     "permissions": ["cmdprotect", "test2"]
+  },
+  {
+    "username": "MrColdiYT",
+    "permissions": "*"
   }
 ]
